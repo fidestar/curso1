@@ -20,6 +20,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^4.4.0",
     "mongoose": "^6.2.2",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "vue": "^3.2.31"
   }
 }
